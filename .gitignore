@@ -1,0 +1,12 @@
+# Exclude research/gemini-cli/ as it's a copy of another repo
+research/gemini-cli/
+
+# Common files to ignore
+.DS_Store
+node_modules/
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
